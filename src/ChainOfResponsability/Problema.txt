@@ -1,0 +1,2 @@
+Aca el problema radica en un sistema de medallas de un juego para un jugador, dependiendo de cierto puntaje que el jugador optenga, tendra una medalla
+Hice que el puntaje pasara atraves de varias clases para que revisaran en orden el puntaje y al obtener uno, que se detuviera la cadena

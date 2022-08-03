@@ -1,0 +1,3 @@
+El problema radica principalmente en como implementar un sistema de dialogo entre varios npcs, osea, varios personajes
+no jugables de videojuego con los cuales pudes interactuar. Todos los npcs son del mismo tipo de objeto, pero no todos
+tienen los mismos dialogos

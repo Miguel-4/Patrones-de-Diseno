@@ -1,0 +1,3 @@
+La problematica es la siguiente:
+Uno necesita tener un sistema de creacion de personajes para un juego, los personajes deben iniciar con ciertas
+caracteristicas opcionales, a excepcion del nombre, el nombre siempre tiene que ser creado junto con el jugador.

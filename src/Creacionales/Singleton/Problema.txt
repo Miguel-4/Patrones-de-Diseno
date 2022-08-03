@@ -1,0 +1,3 @@
+En un juego, uno quiere implementar un sistema de musica, pero resulta que al inicializar el objeto, queremos que
+solo tener un objeto que se encargue de inicializar la musica global y que sea capaz de no repetirse para que la
+musica no llegue a solaparse entre si.
